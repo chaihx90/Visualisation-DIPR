@@ -31,7 +31,6 @@ in a notebook in the /raw_data_etl folder.
 
 \-----   INSTALLATION    -----\
 
-
 The following steps will make DIPR available on your local machine.
 
 0. Ensure python 3.7.X is available on your local machine. It can
